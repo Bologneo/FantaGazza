@@ -1,0 +1,5 @@
+{
+  "name": "FantaGazzetta Assistant",
+  "description": "An intelligent Fantacalcio assistant. Check the latest Gazzetta grades using Google Search and get deep team analysis with Gemini's thinking mode.",
+  "requestFramePermissions": []
+}
